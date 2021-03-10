@@ -1,0 +1,2 @@
+# Dissertation_BCA
+The purpose of this project is to provide wasted food to the underprivileged and connect the supply chains with people seeking for help. Everyday huge amounts of food goes to waste every day, by getting places like restaurants, supermarkets, events which we wish to connect to other people in order to reduce food wastage via our application designed for providing a better food recovery system.
