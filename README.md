@@ -1,4 +1,4 @@
-# Dissertation_BCA
+# BCA Dissertation Project
 The purpose of this project is to provide wasted food to the underprivileged and connect the supply chains with people seeking for help. Everyday huge amounts of food goes to waste every day, by getting places like restaurants, supermarkets, events which we wish to connect to other people in order to reduce food wastage via our application designed for providing a better food recovery system.
 
 Food loss and food waste refer to the decrease of food in subsequent stages of the food supply chains intended for human consumption. The decrease may be accidental or intentional. One-third of the food produced for human consumption is lost or wasted worldwide, which is more than enough to feed the entire malnourished population of the entire world. Food wastage is becoming a rising concern over all the countries as it leads to waste of the resources used in production, such as land, water, energy, and inputs, which increases the greenhouse gas emissions in vain.
